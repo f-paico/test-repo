@@ -1,2 +1,4 @@
 x="hello world"
-print(x)
+y=x.split(" ")
+print(y[0],y[1])
+
