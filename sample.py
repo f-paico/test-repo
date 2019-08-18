@@ -1,7 +1,7 @@
 x="hello world"
-x2="hello"
+
 y=x.split(" ")
+for i in y:
+    print(i)
 
-
-print(y[0],y[1],x2)
 
